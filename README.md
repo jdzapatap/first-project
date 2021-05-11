@@ -38,3 +38,7 @@ borrar lo que hay en la carpeta node_modules
 
 --rm -rf node_modules/
 
+crear un archivo package.json, que explica el proyecto o app, y dus dependencias
+
+ --npm init
+
