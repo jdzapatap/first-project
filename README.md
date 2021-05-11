@@ -25,3 +25,16 @@ segundo paso es hacer un commit con un comentario
 tercer paso elijo en branch al que lo mando, en este caso el master, se ven los cambios en github
 
 --git push origin master
+
+Ejecutar archivo, que actualiza cambios solo, o sea reinica el servidor solo, sin necesidad que nosotros lo hagamos.
+
+-- nodemon app.js
+
+ruta completa de donde estamos
+
+--pwd
+
+borrar lo que hay en la carpeta node_modules
+
+--rm -rf node_modules/
+
